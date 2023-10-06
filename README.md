@@ -1,3 +1,3 @@
 # PetSaveOnboarding
 
-A description of this package.
+Onboarding Swift package for PetSave app
